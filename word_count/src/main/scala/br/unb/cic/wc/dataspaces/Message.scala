@@ -4,3 +4,4 @@ import scala.collection.mutable.{Map,Queue}
 trait Message
 
 case class CountWords() extends Message
+case class TakeFreqs() extends Message

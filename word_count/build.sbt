@@ -8,3 +8,4 @@ libraryDependencies += "org.scala-lang.modules" %% "scala-parser-combinators" % 
 
 val AkkaVersion = "2.6.9"
 libraryDependencies += "com.typesafe.akka" %% "akka-actor-typed" % AkkaVersion
+libraryDependencies += "ch.qos.logback" % "logback-classic" % "1.2.3"

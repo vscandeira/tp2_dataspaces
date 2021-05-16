@@ -2,17 +2,19 @@ package br.unb.cic.wc.dataspaces
 
 import scala.collection.mutable.{Map, Queue}
 import scala.io.Source
+
 import scala.concurrent.{Await, Future}
-import akka.actor.{ActorSystem, PoisonPill, Props}
-import akka.pattern.ask
+import scala.concurrent.duration._
 import scala.concurrent.ExecutionContext.Implicits.global
 
-import scala.concurrent.duration._
+import akka.actor.{ActorSystem, Props}
+import akka.pattern.ask
 import akka.util.Timeout
 
 object Main extends App() {
   val wordCount = ActorSystem("WordCount")
-  implicit val timeout = Timeout(5, SECONDS)
+  implicit val timeout = Timeout(10, SECONDS)
+
   // primeiro parâmetro é arquivo com stopwords e segundo parâmetro é arquivo de texto
   val stop_filename = args(0)
   val text_filename = args(1)

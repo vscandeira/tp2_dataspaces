@@ -10,6 +10,7 @@ class ActorClass(wordspace: Queue[String], stopwords: List[String]) extends Acto
       count_words(wordspace, stopwords)
     case TakeFreqs() =>
       sender() ! freq_space
+      context.system.terminate()
   }
 
   def increment_count(word: String, freqs: Map[String, Int]): Map[String, Int] = {
@@ -20,8 +21,7 @@ class ActorClass(wordspace: Queue[String], stopwords: List[String]) extends Acto
   def count_words(wordspace: Queue[String], stop_words: List[String]) = {
     while (!wordspace.isEmpty) {
       val word = wordspace.dequeue
-      freq_space = if (!stop_words.contains(word)) increment_count(word, freq_space) else freq_space
+      freq_space = if (!stop_words.contains(word) && (word!=null) && (word!="")) increment_count(word, freq_space) else freq_space
     }
   }
-
 }

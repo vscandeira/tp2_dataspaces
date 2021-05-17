@@ -2,7 +2,7 @@ scalaVersion := "2.13.3"
 
 name := "word-count"
 organization := "br.unb.cic.wc.dataspaces"
-version := "1.0"
+version := "0.1"
 
 libraryDependencies += "org.scala-lang.modules" %% "scala-parser-combinators" % "1.1.2"
 

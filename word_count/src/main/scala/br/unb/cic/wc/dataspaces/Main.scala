@@ -18,10 +18,11 @@ object Main extends App() {
   // primeiro parâmetro é arquivo com stopwords e segundo parâmetro é arquivo de texto
   val stop_filename = args(0)
   val text_filename = args(1)
+  val charset = args(2)
 
   val regex = "[,.:;!?()/{}\\[\\]]".r
   val stop_words = Source.fromFile(stop_filename).getLines.toList
-  val text_array = regex.replaceAllIn(Source.fromFile(text_filename).getLines.mkString("\n").toLowerCase(), "").split("[ |\n]")
+  val text_array = regex.replaceAllIn(Source.fromFile(text_filename)(charset).getLines.mkString("\n").toLowerCase(), "").split("[ |\n]")
 
   val threads = 5
   var word_space: Queue[String] = Queue(text_array: _*)

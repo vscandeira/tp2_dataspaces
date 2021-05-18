@@ -1,6 +1,7 @@
 # Implementação de Word Count no estilo DataSpaces
 *(Código do Grupo 6 para a aula de dataspaces da disciplina de Técnicas de Programação 2 - 2020.2)*
 ![](/recursos/dataspaces.png)
+
 <p>Código construído via sbt-shell e posteriormente importado para o IntelliJ, pode ser executado via terminal ou via IDE.</p>
 
 ## Parâmetros
@@ -13,10 +14,13 @@
 
 ## Exemplos
 <p>Exemplos executados do sbt shell dentro da pasta word_count:</p>
-- run data/stop_words.txt data/genesis_linha1.txt utf-8<br />
-- run data/stop_words.txt data/genesis.txt utf-8<br />
-- run data/stop_words.txt data/machado_dom_casmurro.txt iso-8859-1<br />
-- run data/stop_words.txt data/machado_memorias.txt iso-8859-1<br />
+* run data/stop_words.txt data/genesis_linha1.txt utf-8<br />
+* run data/stop_words.txt data/genesis.txt utf-8<br />
+* run data/stop_words.txt data/machado_dom_casmurro.txt iso-8859-1<br />
+* run data/stop_words.txt data/machado_memorias.txt iso-8859-1<br />
 <br />
 <br />
-<p>[Link para Apresentação](https://onedrive.live.com/view.aspx?resid=1221CCC649E22A70!8763&ithint=file%2Cpptx&authkey=!AIOvWdITGT2RTgc)</p>
+## Link para Apresentação
+<https://onedrive.live.com/view.aspx?resid=1221CCC649E22A70!8763&ithint=file%2Cpptx&authkey=!AIOvWdITGT2RTgc>
+## VideoAula do Estilo
+![](/recursos/VideoDataSpaces.mkv)

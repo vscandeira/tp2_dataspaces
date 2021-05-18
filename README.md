@@ -4,6 +4,12 @@
 
 <p>Código construído via sbt-shell e posteriormente importado para o IntelliJ, pode ser executado via terminal ou via IDE.</p>
 
+## VideoAula do Estilo
+![](/recursos/VideoDataSpaces.mkv)
+
+## Link para Apresentação
+<p>[](https://onedrive.live.com/view.aspx?resid=1221CCC649E22A70!8763&ithint=file%2Cpptx&authkey=!AIOvWdITGT2RTgc)</p>
+
 ## Parâmetros
 <p>Para rodas o programa, são necessários 3 parâmetros:</p>
 1. args(0): nome do arquivo que contém stop words<br />
@@ -18,9 +24,3 @@
 * run data/stop_words.txt data/genesis.txt utf-8<br />
 * run data/stop_words.txt data/machado_dom_casmurro.txt iso-8859-1<br />
 * run data/stop_words.txt data/machado_memorias.txt iso-8859-1<br />
-
-## Link para Apresentação
-<p>[](https://onedrive.live.com/view.aspx?resid=1221CCC649E22A70!8763&ithint=file%2Cpptx&authkey=!AIOvWdITGT2RTgc)</p>
-
-## VideoAula do Estilo
-<p>![](/recursos/VideoDataSpaces.mkv)</p>

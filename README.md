@@ -8,7 +8,7 @@
 ![](/recursos/VideoDataSpaces.mkv)
 
 ## Link para Apresentação
-<p>[](https://onedrive.live.com/view.aspx?resid=1221CCC649E22A70!8763&ithint=file%2Cpptx&authkey=!AIOvWdITGT2RTgc)</p>
+<p>https://onedrive.live.com/view.aspx?resid=1221CCC649E22A70!8763&ithint=file%2Cpptx&authkey=!AIOvWdITGT2RTgc</p>
 
 ## Parâmetros
 <p>Para rodas o programa, são necessários 3 parâmetros:</p>

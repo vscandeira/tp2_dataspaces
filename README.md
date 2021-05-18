@@ -7,7 +7,7 @@
 1. args(0): nome do arquivo que contém stop words<br />
 2. args(1): nome do arquivo que contém com texto a ser processado<br />
 3. args(2): charset<br />
-
+<br />
 <p>O parâmetro de charset se viu necessário em virtude de alguns dos arquivos de exemplo estarem em formato ISO-8859-1</p>
 
 ## Exemplos
@@ -16,6 +16,6 @@
 - run data/stop_words.txt data/genesis.txt utf-8<br />
 - run data/stop_words.txt data/machado_dom_casmurro.txt iso-8859-1<br />
 - run data/stop_words.txt data/machado_memorias.txt iso-8859-1<br />
-
-## Apresentação
-![](https://onedrive.live.com/view.aspx?resid=1221CCC649E22A70!8763&ithint=file%2Cpptx&authkey=!AIOvWdITGT2RTgc)
+<br />
+<br />
+[Link para Apresentação](https://onedrive.live.com/view.aspx?resid=1221CCC649E22A70!8763&ithint=file%2Cpptx&authkey=!AIOvWdITGT2RTgc)

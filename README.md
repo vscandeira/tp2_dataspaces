@@ -4,9 +4,10 @@
 
 <p>Código construído via sbt-shell e posteriormente importado para o IntelliJ, pode ser executado via terminal ou via IDE.</p>
 
-## VideoAula do Estilo
-![](/recursos/VideoDataSpaces.mkv)
+## Link para VideoAula do Estilo
+<p>https://unbbr-my.sharepoint.com/:v:/g/personal/170157636_aluno_unb_br/EdTAkbI-YdJPuIrTK_PdEQoBLppGLMuqGdJsF2B8vtobeg?e=CNutLS</p>
 
+<br />
 ## Link para Apresentação
 <p>https://onedrive.live.com/view.aspx?resid=1221CCC649E22A70!8763&ithint=file%2Cpptx&authkey=!AIOvWdITGT2RTgc</p>
 

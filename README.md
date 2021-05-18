@@ -18,9 +18,9 @@
 * run data/stop_words.txt data/genesis.txt utf-8<br />
 * run data/stop_words.txt data/machado_dom_casmurro.txt iso-8859-1<br />
 * run data/stop_words.txt data/machado_memorias.txt iso-8859-1<br />
-<br />
-<br />
+
 ## Link para Apresentação
-<https://onedrive.live.com/view.aspx?resid=1221CCC649E22A70!8763&ithint=file%2Cpptx&authkey=!AIOvWdITGT2RTgc>
+<p>[](https://onedrive.live.com/view.aspx?resid=1221CCC649E22A70!8763&ithint=file%2Cpptx&authkey=!AIOvWdITGT2RTgc)</p>
+
 ## VideoAula do Estilo
-![](/recursos/VideoDataSpaces.mkv)
+<p>![](/recursos/VideoDataSpaces.mkv)</p>

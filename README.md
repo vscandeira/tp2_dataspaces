@@ -1,5 +1,6 @@
 # Implementação de Word Count no estilo DataSpaces
 *(Código do Grupo 6 para a aula de dataspaces da disciplina de Técnicas de Programação 2 - 2020.2)*
+![recursos/dataspaces.png]
 <p>Código construído via sbt-shell e posteriormente importado para o IntelliJ, pode ser executado via terminal ou via IDE.</p>
 
 ## Parâmetros
@@ -18,4 +19,4 @@
 - run data/stop_words.txt data/machado_memorias.txt iso-8859-1<br />
 <br />
 <br />
-[Link para Apresentação](https://onedrive.live.com/view.aspx?resid=1221CCC649E22A70!8763&ithint=file%2Cpptx&authkey=!AIOvWdITGT2RTgc)
+<p>[Link para Apresentação](https://onedrive.live.com/view.aspx?resid=1221CCC649E22A70!8763&ithint=file%2Cpptx&authkey=!AIOvWdITGT2RTgc)</p>

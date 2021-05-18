@@ -7,7 +7,6 @@
 ## Link para VideoAula do Estilo
 <p>https://unbbr-my.sharepoint.com/:v:/g/personal/170157636_aluno_unb_br/EdTAkbI-YdJPuIrTK_PdEQoBOBFhccL9zldGyCruwFcq5Q?e=by2dZq</p>
 
-<br />
 ## Link para Apresentação
 <p>https://onedrive.live.com/view.aspx?resid=1221CCC649E22A70!8763&ithint=file%2Cpptx&authkey=!AIOvWdITGT2RTgc</p>
 

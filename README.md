@@ -1,6 +1,6 @@
 # Implementação de Word Count no estilo DataSpaces
 *(Código do Grupo 6 para a aula de dataspaces da disciplina de Técnicas de Programação 2 - 2020.2)*
-![recursos/dataspaces.png]
+![](/recursos/dataspaces.png)
 <p>Código construído via sbt-shell e posteriormente importado para o IntelliJ, pode ser executado via terminal ou via IDE.</p>
 
 ## Parâmetros

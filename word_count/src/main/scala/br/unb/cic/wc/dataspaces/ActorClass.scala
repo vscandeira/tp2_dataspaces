@@ -15,7 +15,7 @@ class ActorClass(wordspace: Queue[String], stopwords: List[String]) extends Acto
 
   def increment_count(word: String, freqs: Map[String, Int]): Map[String, Int] = {
     val count = if (!freqs.contains(word)) 1 else freqs.apply(word) + 1
-    return freqs + (word -> count)
+    return freqs += (word -> count)
   }
 
   def count_words(wordspace: Queue[String], stop_words: List[String]) = {

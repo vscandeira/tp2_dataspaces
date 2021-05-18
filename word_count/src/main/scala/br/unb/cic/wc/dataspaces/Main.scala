@@ -15,7 +15,7 @@ object Main extends App() {
   val wordCount = ActorSystem("WordCount")
   implicit val timeout = Timeout(10, SECONDS)
 
-  // primeiro parâmetro é arquivo com stopwords e segundo parâmetro é arquivo de texto
+  // primeiro argumento é arquivo com stopwords, segundo é arquivo de texto, terceiro é o charset
   val stop_filename = args(0)
   val text_filename = args(1)
   val charset = args(2)

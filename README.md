@@ -5,7 +5,7 @@
 <p>Código construído via sbt-shell e posteriormente importado para o IntelliJ, pode ser executado via terminal ou via IDE.</p>
 
 ## Link para VideoAula do Estilo
-<p>https://unbbr-my.sharepoint.com/:v:/g/personal/170157636_aluno_unb_br/EdTAkbI-YdJPuIrTK_PdEQoBLppGLMuqGdJsF2B8vtobeg?e=CNutLS</p>
+<p>https://unbbr-my.sharepoint.com/:v:/g/personal/170157636_aluno_unb_br/EdTAkbI-YdJPuIrTK_PdEQoBOBFhccL9zldGyCruwFcq5Q?e=by2dZq</p>
 
 <br />
 ## Link para Apresentação
